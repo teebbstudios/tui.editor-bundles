@@ -23,7 +23,7 @@
   "_resolved": "https://registry.npm.taobao.org/tui-code-snippet/download/tui-code-snippet-1.5.1.tgz",
   "_shasum": "0f6512979024a959a59404afa6ff28416421e4dd",
   "_spec": "tui-code-snippet@^1.5.0",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "author": {
     "name": "NHN. FE Development Lab",
     "email": "dl_javascript@nhn.com"

@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npm.taobao.org/tui-chart/download/tui-chart-3.6.2.tgz",
   "_shasum": "e801406957cd55be6be701e48511e47e0ebedefb",
   "_spec": "tui-chart@^3.0.1",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "author": {
     "name": "NHN. FE Development Lab",
     "email": "dl_javascript@nhn.com"

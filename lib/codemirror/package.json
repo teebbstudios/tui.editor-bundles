@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npm.taobao.org/codemirror/download/codemirror-5.46.0.tgz",
   "_shasum": "be3591572f88911e0105a007c324856a9ece0fb7",
   "_spec": "codemirror@^5.33.0",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "author": {
     "name": "Marijn Haverbeke",
     "email": "marijnh@gmail.com",

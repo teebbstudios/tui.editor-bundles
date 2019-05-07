@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npm.taobao.org/markdown-it/download/markdown-it-8.4.2.tgz",
   "_shasum": "386f98998dc15a37722aa7722084f4020bdd9b54",
   "_spec": "markdown-it@^8.4.0",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "bin": {
     "markdown-it": "bin/markdown-it.js"
   },

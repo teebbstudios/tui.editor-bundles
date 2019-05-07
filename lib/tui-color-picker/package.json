@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npm.taobao.org/tui-color-picker/download/tui-color-picker-2.2.3.tgz",
   "_shasum": "81737e3507aa0790947c3c5cad0acada5caf883b",
   "_spec": "tui-color-picker@^2.2.1",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "author": {
     "name": "NHN FE Development Team",
     "email": "dl_javascript@nhn.com"

@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.15.6.tgz",
   "_shasum": "72d4d8d779ec066af9a17cb14360c3def0aa57c4",
   "_spec": "highlight.js@^9.12.0",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "author": {
     "name": "Ivan Sagalaev",
     "email": "maniac@softwaremaniacs.org"

@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npm.taobao.org/to-mark/download/to-mark-1.1.5.tgz",
   "_shasum": "0940f0c668738ab4af5917e5f659cae6e7cb6264",
   "_spec": "to-mark@^1.1.5",
-  "_where": "/Users/weiwei/repository/html/teebbstudios/tui.editor-bundles/node_modules/tui-editor",
+  "_where": "/Users/weiwei/repository/html/teebbstudios/node_modules/tui-editor",
   "author": {
     "name": "NHN Ent. FE Development Lab",
     "email": "dl_javascript@nhnent.com",
